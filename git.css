@@ -15,3 +15,9 @@ a{
 img{
     width: 900px;
 }
+.hey{
+    background-color: brown;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+}
